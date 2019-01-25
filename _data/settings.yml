@@ -11,41 +11,41 @@ custom_links_new_tab:
     url:
 
 client:
-  name:
+  name: Robert Bodossian and Renee Velasquez
   title:
   license_number:
   about_markdown: |
 
-  brand:
-  brokerage:
-  market:
-  address:
-  phone:
+  brand: The RSVP Group
+  brokerage: eXp Realty
+  market: Brunswick
+  address: 50 Pearl Rd.Suite 306 Brunswick, OH 44212
+  phone: 440-879-8851
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: robert@thersvpgroup.com
+  url: http://www.thersvpgroup.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  first_CTA_URL: https://reneevelasquez.exprealty.com/sell.php
+  second_CTA_text: Request a Free Consultation
+  second_CTA_URL: http://www.thersvpgroup.com/contact/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: https://reneevelasquez.exprealty.com/sell.php
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_title2: "We look forward to hearing from you"
+    CTA_text2: "Contact Us"
+    CTA_link_text2: "Request a Free Consultation"
+    CTA_url2: http://www.thersvpgroup.com/contact/
 
 lender:
   show_section: false
@@ -62,10 +62,10 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/TheRSVPGroupBrunswickAgents/
+  linkedin_url: https://www.linkedin.com/in/renee-velasquez-and-the-rsvp-group-real-estate-team/
+  youtube_url: https://www.youtube.com/user/reneemvelasquez
+  twitter_url: https://twitter.com/thersvpgroup_
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -91,7 +91,7 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
+  brand_color: '#000000'
   theme_color: '#999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
