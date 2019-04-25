@@ -23,7 +23,7 @@ You’ve seen the headlines: Buying a home is less affordable today than in the 
 
 {% include pullquote.html %}
 
-If you look back further than 10 years, however, we see a different story. What it boils down to is that homes are actually more affordable today.&nbsp;
+If you look back further than 10 years, however, we see a different story. What it boils down to is that homes are actually more affordable today. 
 
 The National Association of Realtors puts out a monthly index—the higher the number, the more affordable homes are. The number for March is 147.6. It was higher over the last 10 years, peaking at 197 in 2012. Between 1990 and 2007, however, the average index was only 123. In the big picture, homes are still very affordable.
 
